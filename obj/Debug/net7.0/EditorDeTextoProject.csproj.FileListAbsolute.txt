@@ -1,0 +1,15 @@
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\EditorDeTextoProject\bin\Debug\net7.0\EditorDeTextoProject.exe
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\EditorDeTextoProject\bin\Debug\net7.0\EditorDeTextoProject.deps.json
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\EditorDeTextoProject\bin\Debug\net7.0\EditorDeTextoProject.runtimeconfig.json
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\EditorDeTextoProject\bin\Debug\net7.0\EditorDeTextoProject.dll
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\EditorDeTextoProject\bin\Debug\net7.0\EditorDeTextoProject.pdb
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\EditorDeTextoProject\obj\Debug\net7.0\EditorDeTextoProject.csproj.AssemblyReference.cache
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\EditorDeTextoProject\obj\Debug\net7.0\EditorDeTextoProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\EditorDeTextoProject\obj\Debug\net7.0\EditorDeTextoProject.AssemblyInfoInputs.cache
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\EditorDeTextoProject\obj\Debug\net7.0\EditorDeTextoProject.AssemblyInfo.cs
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\EditorDeTextoProject\obj\Debug\net7.0\EditorDeTextoProject.csproj.CoreCompileInputs.cache
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\EditorDeTextoProject\obj\Debug\net7.0\EditorDeTextoProject.dll
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\EditorDeTextoProject\obj\Debug\net7.0\refint\EditorDeTextoProject.dll
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\EditorDeTextoProject\obj\Debug\net7.0\EditorDeTextoProject.pdb
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\EditorDeTextoProject\obj\Debug\net7.0\EditorDeTextoProject.genruntimeconfig.cache
+C:\Users\ASSAFIN\Desktop\EstudosEProjetosCSHARP\ProjetosEstudoCSHARP\EditorDeTextoProject\obj\Debug\net7.0\ref\EditorDeTextoProject.dll
